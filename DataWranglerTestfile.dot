@@ -1,0 +1,10 @@
+graph RoadNetwork{
+        Milwaukee -- Madison[label="(43.04, -87.91) to (43.07, -89.40)" distance=75.5];
+        GreenBay -- Kenosha [label="(44.52, -88.02) to (42.58, -87.82)" distance=134.02];
+        Racine -- Appleton [label="(42.73, -87.78) to (44.26, -88.42)" distance=110.74];
+        Waukesha -- Oshkosh [label="(43.01, -88.23) to (44.02, -88.54)" distance=71.7];
+        EauClaire -- Janesville [label="(44.81, -91.50) to (42.68, -89.02)" distance=192.19];
+        Sheboygan -- Watertown [label="(43.75, -87.71) to (43.19, -88.72)" distance=91.6];
+        Whitewater -- Bellevue [label="(42.83, -88.73) to (44.46, -87.96)" distance=118.45];
+        Milwaukee -- Kenosha [label="(43.04, -87.91) to (42.58, -87.82)" distance=34.9];
+}
